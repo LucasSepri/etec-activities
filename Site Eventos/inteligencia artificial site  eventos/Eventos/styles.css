@@ -1,0 +1,570 @@
+.160_57 { 
+	overflow:hidden;
+}.eventos_160_57 { 
+	background-color:rgba(0, 0, 0, 1);
+	width:1365px;
+	height:3244px;
+	position:absolute;
+}.cabecalho_160_58 { 
+	width:1365px;
+	height:910px;
+	position:absolute;
+	left:0px;
+	top:0px;
+}.cabecalho_160_59 { 
+	background-image:url(images/cabecalho.png);
+	width:1365px;
+	height:910px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	background-repeat:no-repeat;
+	background-size:cover;
+}.acessos__160_60 { 
+	width:1365px;
+	height:165px;
+	position:absolute;
+	left:0px;
+	top:0px;
+}.rectangle_40_160_61 { 
+	background-image:linear-gradient(0deg, rgba(0, 0, 0, 1) 27.507847547531128%,rgba(0, 0, 0, 0) 57.785576581954956%) ;
+	width:1365px;
+	height:165px;
+	position:absolute;
+	left:0px;
+	top:0px;
+}.rectangle_3_160_62 { 
+	background-color:rgba(0, 0, 0, 0.6000000238418579);
+	width:246.30020141601562px;
+	height:92.28121948242188px;
+	position:absolute;
+	left:1072.115966796875px;
+	top:38.3824462890625px;
+	border-top-left-radius:5px;
+	border-top-right-radius:5px;
+	border-bottom-left-radius:5px;
+	border-bottom-right-radius:5px;
+}.160_62 { 
+	border:3px solid rgba(255, 255, 255, 1);
+}.cadastrar_160_63 { 
+	color:rgba(255, 255, 255, 1);
+	width:281.4859619140625px;
+	height:110.73747253417969px;
+	position:absolute;
+	left:1045.050048828125px;
+	top:31px;
+	font-family:Rhodium Libre;
+	text-align:center;
+	font-size:24px;
+	letter-spacing:0;
+}.acessar_sua_conta_160_65 { 
+	color:rgba(255, 255, 255, 1);
+	width:354.56402587890625px;
+	height:110.73747253417969px;
+	position:absolute;
+	left:690.4859619140625px;
+	top:31px;
+	font-family:Rhodium Libre;
+	text-align:center;
+	font-size:24px;
+	letter-spacing:0;
+}.search_167_2 { 
+	width:34px;
+	height:32px;
+	position:absolute;
+	left:256px;
+	top:69px;
+}.167_3 { 
+	border:2px solid rgba(255, 255, 255, 1);
+}.vector_167_3 { 
+	width:22.666667938232422px;
+	height:21.33333396911621px;
+	position:absolute;
+	left:4.25px;
+	top:4px;
+}.167_4 { 
+	border:2px solid rgba(255, 255, 255, 1);
+}.vector_167_4 { 
+	width:6.162502288818359px;
+	height:5.799999237060547px;
+	position:absolute;
+	left:23.587495803833008px;
+	top:22.200008392333984px;
+}.pesquisa_shows_eventos_156_42 { 
+	color:rgba(255, 255, 255, 1);
+	width:286px;
+	height:41px;
+	position:absolute;
+	left:323px;
+	top:65px;
+	font-family:Rhodium Libre;
+	text-align:center;
+	font-size:24px;
+	letter-spacing:0;
+}.x_show_160_66 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	color:rgba(255, 255, 255, 1);
+	width:137px;
+	height:142px;
+	position:absolute;
+	left:65px;
+	top:23px;
+	font-family:Rhodium Libre;
+	text-align:center;
+	font-size:Symbol(figma.mixed)px;
+	letter-spacing:0;
+	line-height:px;
+}.rodap__160_70 { 
+	width:1365px;
+	height:508.78753662109375px;
+	position:absolute;
+	left:0px;
+	top:2735px;
+}.rectangle_25_160_71 { 
+	background-color:rgba(24.43749949336052, 24.43749949336052, 24.43749949336052, 1);
+	width:1365px;
+	height:508.78753662109375px;
+	position:absolute;
+	left:0px;
+	top:0px;
+}.line_4_160_72 { 
+	transform: rotate(7.731613337405783e-17deg);
+	width:1361.5389404296875px;
+	height:0px;
+	position:absolute;
+	left:1.77740478515625px;
+	top:447.9543151855469px;
+}.160_72 { 
+	border:1px solid rgba(215.13965249061584, 215.13965249061584, 215.13965249061584, 1);
+}.lorem_ipsum_is_simply_dummy_text_of_the_printing_and_typesetting_industry__lorem_ipsum_has_been_the_industry_s_standard_dummy_text_ever_since_the_1500s__when_an_unknown_printer_took_a_galley_of_type_and_scrambled_it_to_make_a_type_160_73 { 
+	color:rgba(255, 255, 255, 1);
+	width:540.3124389648438px;
+	height:188.0301971435547px;
+	position:absolute;
+	left:734.04296875px;
+	top:64.98117065429688px;
+	font-family:Rhodium Libre;
+	text-align:left;
+	font-size:12px;
+	letter-spacing:0;
+}.informa__es_sobre_o_projeto__160_74 { 
+	color:rgba(255, 255, 255, 1);
+	width:540.3125px;
+	height:44.484153747558594px;
+	position:absolute;
+	left:733.6875px;
+	top:31.509681701660156px;
+	font-family:Rhodium Libre;
+	text-align:left;
+	font-size:20px;
+	letter-spacing:6;
+}.links_github__160_75 { 
+	color:rgba(255, 255, 255, 1);
+	width:335.91796875px;
+	height:44.24238967895508px;
+	position:absolute;
+	left:101.30859375px;
+	top:246.09840393066406px;
+	font-family:Rhodium Libre;
+	text-align:left;
+	font-size:20px;
+	letter-spacing:6;
+}.projeto_desenvolvido_por__160_76 { 
+	color:rgba(255, 255, 255, 1);
+	width:652.2850952148438px;
+	height:63.59844207763672px;
+	position:absolute;
+	left:81.75775146484375px;
+	top:22.12103271484375px;
+	font-family:Rhodium Libre;
+	text-align:left;
+	font-size:20px;
+	letter-spacing:6;
+}.lucas_sepriano_gustavo_carlos_fabio_jo_o_160_77 { 
+	color:rgba(255, 255, 255, 1);
+	width:491.04217529296875px;
+	height:145.17034912109375px;
+	position:absolute;
+	left:81.75775146484375px;
+	top:76.04168701171875px;
+	font-family:Rhodium Libre;
+	text-align:left;
+	font-size:12px;
+	letter-spacing:0;
+}.https___github_com_lucassepri_https___github_com_gustavohenriqueignacio_https___github_com_carlloshenrique_https___github_com_fabio_vini_https___github_com_joao19921_160_78 { 
+	color:rgba(255, 255, 255, 1);
+	width:494.1015625px;
+	height:145.17034912109375px;
+	position:absolute;
+	left:81.75775146484375px;
+	top:291.7233581542969px;
+	font-family:Rhodium Libre;
+	text-align:left;
+	font-size:12px;
+	letter-spacing:0;
+}.copyright___2020_x_show__todos_os_direitos_reservados_160_79 { 
+	color:rgba(255, 255, 255, 1);
+	width:1085.9571533203125px;
+	height:27.6514949798584px;
+	position:absolute;
+	left:199.0625px;
+	top:458.8337707519531px;
+	font-family:Rhodium Libre;
+	text-align:center;
+	font-size:14px;
+	letter-spacing:6;
+}.160_155 { 
+	border:1px solid rgba(255, 255, 255, 1);
+}.rectangle_41_160_155 { 
+	width:476px;
+	height:78px;
+	position:absolute;
+	left:228px;
+	top:47px;
+	border-top-left-radius:100px;
+	border-top-right-radius:100px;
+	border-bottom-left-radius:100px;
+	border-bottom-right-radius:100px;
+}.rock_160_193 { 
+	width:1268.217529296875px;
+	height:502px;
+	position:absolute;
+	left:30px;
+	top:1958px;
+}.rectangle_55_160_180 { 
+	background-color:rgba(196.00000351667404, 196.00000351667404, 196.00000351667404, 1);
+	width:311.9286804199219px;
+	height:420px;
+	position:absolute;
+	left:103px;
+	top:82px;
+	border-top-left-radius:5px;
+	border-top-right-radius:5px;
+	border-bottom-left-radius:5px;
+	border-bottom-right-radius:5px;
+}.rectangle_56_160_181 { 
+	background-color:rgba(196.00000351667404, 196.00000351667404, 196.00000351667404, 1);
+	width:311.9286804199219px;
+	height:420px;
+	position:absolute;
+	left:478.03564453125px;
+	top:82px;
+	border-top-left-radius:5px;
+	border-top-right-radius:5px;
+	border-bottom-left-radius:5px;
+	border-bottom-right-radius:5px;
+}.rectangle_57_160_182 { 
+	background-color:rgba(196.00000351667404, 196.00000351667404, 196.00000351667404, 1);
+	width:311.9286804199219px;
+	height:420px;
+	position:absolute;
+	left:853.0712890625px;
+	top:82px;
+	border-top-left-radius:5px;
+	border-top-right-radius:5px;
+	border-bottom-left-radius:5px;
+	border-bottom-right-radius:5px;
+}.rock_160_187 { 
+	color:rgba(255, 255, 255, 1);
+	width:172px;
+	height:82px;
+	position:absolute;
+	left:147px;
+	top:0px;
+	font-family:Rhodium Libre;
+	text-align:center;
+	font-size:48px;
+	letter-spacing:0;
+}.setas_168_205 { 
+	width:1268.217529296875px;
+	height:90px;
+	position:absolute;
+	left:0px;
+	top:240px;
+}.seta_168_206 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	width:104.21758270263672px;
+	height:90px;
+	position:absolute;
+	left:1164px;
+	top:0px;
+	background-image:url(images/seta.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}.seta_168_207 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	transform: rotate(180deg);
+	width:104.21758270263672px;
+	height:90px;
+	position:absolute;
+	left:104.21758270263672px;
+	top:0px;
+	background-image:url(images/seta.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}.setanejo_160_192 { 
+	width:1268.21728515625px;
+	height:502px;
+	position:absolute;
+	left:27.000137329101562px;
+	top:1378px;
+}.rectangle_51_160_176 { 
+	background-color:rgba(196.00000351667404, 196.00000351667404, 196.00000351667404, 1);
+	width:311.9286804199219px;
+	height:420px;
+	position:absolute;
+	left:106px;
+	top:82px;
+	border-top-left-radius:5px;
+	border-top-right-radius:5px;
+	border-bottom-left-radius:5px;
+	border-bottom-right-radius:5px;
+}.rectangle_52_160_177 { 
+	background-color:rgba(196.00000351667404, 196.00000351667404, 196.00000351667404, 1);
+	width:311.9286804199219px;
+	height:420px;
+	position:absolute;
+	left:478.3311767578125px;
+	top:82px;
+	border-top-left-radius:5px;
+	border-top-right-radius:5px;
+	border-bottom-left-radius:5px;
+	border-bottom-right-radius:5px;
+}.rectangle_53_160_178 { 
+	background-color:rgba(196.00000351667404, 196.00000351667404, 196.00000351667404, 1);
+	width:311.9286804199219px;
+	height:420px;
+	position:absolute;
+	left:856.0712280273438px;
+	top:82px;
+	border-top-left-radius:5px;
+	border-top-right-radius:5px;
+	border-bottom-left-radius:5px;
+	border-bottom-right-radius:5px;
+}.sertanejo_160_186 { 
+	color:rgba(255, 255, 255, 1);
+	width:357px;
+	height:82px;
+	position:absolute;
+	left:86px;
+	top:0px;
+	font-family:Rhodium Libre;
+	text-align:center;
+	font-size:48px;
+	letter-spacing:0;
+}.setas_168_202 { 
+	width:1268.21728515625px;
+	height:90px;
+	position:absolute;
+	left:0px;
+	top:247px;
+}.seta_168_203 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	width:104.21758270263672px;
+	height:90px;
+	position:absolute;
+	left:1163.999755859375px;
+	top:0px;
+	background-image:url(images/seta.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}.seta_168_204 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	transform: rotate(180deg);
+	width:104.21758270263672px;
+	height:90px;
+	position:absolute;
+	left:104.21758270263672px;
+	top:0px;
+	background-image:url(images/seta.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}.eletr_nica_160_191 { 
+	width:1268.217529296875px;
+	height:502px;
+	position:absolute;
+	left:27px;
+	top:804px;
+}.rectangle_45_160_159 { 
+	background-color:rgba(196.00000351667404, 196.00000351667404, 196.00000351667404, 1);
+	width:311.9286804199219px;
+	height:420px;
+	position:absolute;
+	left:106px;
+	top:82px;
+	border-top-left-radius:5px;
+	border-top-right-radius:5px;
+	border-bottom-left-radius:5px;
+	border-bottom-right-radius:5px;
+}.rectangle_46_160_160 { 
+	background-color:rgba(196.00000351667404, 196.00000351667404, 196.00000351667404, 1);
+	width:311.9286804199219px;
+	height:420px;
+	position:absolute;
+	left:478.3310546875px;
+	top:82px;
+	border-top-left-radius:5px;
+	border-top-right-radius:5px;
+	border-bottom-left-radius:5px;
+	border-bottom-right-radius:5px;
+}.rectangle_47_160_161 { 
+	background-color:rgba(196.00000351667404, 196.00000351667404, 196.00000351667404, 1);
+	width:311.9286804199219px;
+	height:420px;
+	position:absolute;
+	left:853.36669921875px;
+	top:82px;
+	border-top-left-radius:5px;
+	border-top-right-radius:5px;
+	border-bottom-left-radius:5px;
+	border-bottom-right-radius:5px;
+}.eletr_nica_160_185 { 
+	color:rgba(255, 255, 255, 1);
+	width:396px;
+	height:82px;
+	position:absolute;
+	left:66px;
+	top:0px;
+	font-family:Rhodium Libre;
+	text-align:center;
+	font-size:48px;
+	letter-spacing:0;
+}.setas_168_199 { 
+	width:1268.217529296875px;
+	height:90px;
+	position:absolute;
+	left:0px;
+	top:254px;
+}.seta_168_200 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	width:104.21758270263672px;
+	height:90px;
+	position:absolute;
+	left:1164px;
+	top:0px;
+	background-image:url(images/seta.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}.seta_168_201 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	transform: rotate(180deg);
+	width:104.21758270263672px;
+	height:90px;
+	position:absolute;
+	left:104.21758270263672px;
+	top:0px;
+	background-image:url(images/seta.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}.standa_up_160_190 { 
+	width:1268.217529296875px;
+	height:515px;
+	position:absolute;
+	left:28px;
+	top:242px;
+}.rectangle_42_160_156 { 
+	background-color:rgba(196.00000351667404, 196.00000351667404, 196.00000351667404, 1);
+	width:311.9286804199219px;
+	height:420px;
+	position:absolute;
+	left:105px;
+	top:95px;
+	border-top-left-radius:5px;
+	border-top-right-radius:5px;
+	border-bottom-left-radius:5px;
+	border-bottom-right-radius:5px;
+}.rectangle_43_160_157 { 
+	background-color:rgba(196.00000351667404, 196.00000351667404, 196.00000351667404, 1);
+	width:311.9286804199219px;
+	height:420px;
+	position:absolute;
+	left:477.3310546875px;
+	top:95px;
+	border-top-left-radius:5px;
+	border-top-right-radius:5px;
+	border-bottom-left-radius:5px;
+	border-bottom-right-radius:5px;
+}.rectangle_44_160_158 { 
+	background-color:rgba(196.00000351667404, 196.00000351667404, 196.00000351667404, 1);
+	width:311.9286804199219px;
+	height:420px;
+	position:absolute;
+	left:852.36669921875px;
+	top:95px;
+	border-top-left-radius:5px;
+	border-top-right-radius:5px;
+	border-bottom-left-radius:5px;
+	border-bottom-right-radius:5px;
+}.stand_up_160_184 { 
+	color:rgba(255, 255, 255, 1);
+	width:334px;
+	height:95px;
+	position:absolute;
+	left:104px;
+	top:0px;
+	font-family:Rhodium Libre;
+	text-align:center;
+	font-size:48px;
+	letter-spacing:0;
+}.setas_168_197 { 
+	width:1268.217529296875px;
+	height:90px;
+	position:absolute;
+	left:0px;
+	top:260px;
+}.seta_168_195 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	width:104.21758270263672px;
+	height:90px;
+	position:absolute;
+	left:1164px;
+	top:0px;
+	background-image:url(images/seta.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}.seta_168_196 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	transform: rotate(180deg);
+	width:104.21758270263672px;
+	height:90px;
+	position:absolute;
+	left:104.21758270263672px;
+	top:0px;
+	background-image:url(images/seta.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}.eventos_160_183 { 
+	color:rgba(255, 255, 255, 1);
+	width:381px;
+	height:77px;
+	position:absolute;
+	left:489px;
+	top:165px;
+	font-family:Rhodium Libre;
+	text-align:center;
+	font-size:64px;
+	letter-spacing:0;
+	line-height:px;
+}.veja_mais_167_5 { 
+	color:rgba(255, 255, 255, 1);
+	width:217px;
+	height:68px;
+	position:absolute;
+	left:552px;
+	top:2539px;
+	font-family:Rhodium Libre;
+	text-align:center;
+	font-size:40px;
+	letter-spacing:0;
+}.seta_167_7 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	transform: rotate(90.00000000000001deg);
+	width:70px;
+	height:70px;
+	position:absolute;
+	left:629px;
+	top:2607px;
+	background-image:url(images/seta.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
