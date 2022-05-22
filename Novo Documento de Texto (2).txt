@@ -1,6 +1,0 @@
-cardapio
-fots/lanche, bebida etc..
-promoçoes/combos
-informações, endereço, telefone etc rodapé.
-campo de pesquisa no cardapio
-

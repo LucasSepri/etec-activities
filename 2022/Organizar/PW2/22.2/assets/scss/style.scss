@@ -1,0 +1,31 @@
+// Start to SASS 
+// "sass -w ./assets/scss/style.scss:./assets/css/style.css"
+
+//Fonts
+@import url('https://fonts.googleapis.com/css2?family=The+Nautigal:wght@400;700&display=swap');
+
+// Variables
+@import "./variaveis.scss";
+
+//Framewor
+@import './bootstrap.scss';
+
+// Components Bootstrap
+// paste here
+
+
+
+// Components
+// paste here
+@import "./header.scss";
+@import "./nav-bar.scss";
+@import "./main.scss";
+@import "./footer.scss";
+
+
+//Config
+@import "./config.scss";
+
+
+// Responsive
+@import "./responsive.scss";
