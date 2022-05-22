@@ -1,0 +1,13 @@
+C:\Users\SAMSUNG\Desktop\Laços de Repetição\7\7\bin\Debug\netcoreapp3.1\7.exe
+C:\Users\SAMSUNG\Desktop\Laços de Repetição\7\7\bin\Debug\netcoreapp3.1\7.deps.json
+C:\Users\SAMSUNG\Desktop\Laços de Repetição\7\7\bin\Debug\netcoreapp3.1\7.runtimeconfig.json
+C:\Users\SAMSUNG\Desktop\Laços de Repetição\7\7\bin\Debug\netcoreapp3.1\7.runtimeconfig.dev.json
+C:\Users\SAMSUNG\Desktop\Laços de Repetição\7\7\bin\Debug\netcoreapp3.1\7.dll
+C:\Users\SAMSUNG\Desktop\Laços de Repetição\7\7\bin\Debug\netcoreapp3.1\7.pdb
+C:\Users\SAMSUNG\Desktop\Laços de Repetição\7\7\obj\Debug\netcoreapp3.1\7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAMSUNG\Desktop\Laços de Repetição\7\7\obj\Debug\netcoreapp3.1\7.AssemblyInfoInputs.cache
+C:\Users\SAMSUNG\Desktop\Laços de Repetição\7\7\obj\Debug\netcoreapp3.1\7.AssemblyInfo.cs
+C:\Users\SAMSUNG\Desktop\Laços de Repetição\7\7\obj\Debug\netcoreapp3.1\7.csproj.CoreCompileInputs.cache
+C:\Users\SAMSUNG\Desktop\Laços de Repetição\7\7\obj\Debug\netcoreapp3.1\7.dll
+C:\Users\SAMSUNG\Desktop\Laços de Repetição\7\7\obj\Debug\netcoreapp3.1\7.pdb
+C:\Users\SAMSUNG\Desktop\Laços de Repetição\7\7\obj\Debug\netcoreapp3.1\7.genruntimeconfig.cache

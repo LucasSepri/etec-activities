@@ -1,0 +1,8 @@
+C:\Users\lucas\OneDrive - Etec Centro Paula Souza\2\2\bin\Debug\2.exe.config
+C:\Users\lucas\OneDrive - Etec Centro Paula Souza\2\2\bin\Debug\2.exe
+C:\Users\lucas\OneDrive - Etec Centro Paula Souza\2\2\bin\Debug\2.pdb
+C:\Users\lucas\OneDrive - Etec Centro Paula Souza\2\2\obj\Debug\2.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive - Etec Centro Paula Souza\2\2\obj\Debug\2.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucas\OneDrive - Etec Centro Paula Souza\2\2\obj\Debug\2.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive - Etec Centro Paula Souza\2\2\obj\Debug\2.exe
+C:\Users\lucas\OneDrive - Etec Centro Paula Souza\2\2\obj\Debug\2.pdb

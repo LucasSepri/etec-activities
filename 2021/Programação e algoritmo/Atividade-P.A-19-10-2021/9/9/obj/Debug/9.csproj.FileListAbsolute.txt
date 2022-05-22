@@ -1,0 +1,7 @@
+C:\Users\lucas\OneDrive - Etec Centro Paula Souza\9\9\bin\Debug\9.exe.config
+C:\Users\lucas\OneDrive - Etec Centro Paula Souza\9\9\bin\Debug\9.exe
+C:\Users\lucas\OneDrive - Etec Centro Paula Souza\9\9\bin\Debug\9.pdb
+C:\Users\lucas\OneDrive - Etec Centro Paula Souza\9\9\obj\Debug\9.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucas\OneDrive - Etec Centro Paula Souza\9\9\obj\Debug\9.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive - Etec Centro Paula Souza\9\9\obj\Debug\9.exe
+C:\Users\lucas\OneDrive - Etec Centro Paula Souza\9\9\obj\Debug\9.pdb
